@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass": "^1.92.1",
+    "vite": "^7.1.5",
+    "vite-plugin-typo3": "^2.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
