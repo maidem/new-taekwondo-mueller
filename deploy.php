@@ -4,8 +4,8 @@ namespace Deployer;
 require 'recipe/common.php';
 
 // --- Projekt ---
-set('application', 'taekwondo-mueller');
-set('repository', 'git@github.com:maidem/taekwondo-mueller.git');
+set('application', 'new-taekwondo-mueller');
+set('repository', 'git@github.com:maidem/new-taekwondo-mueller.git');
 
 // Branch aus Secret, sonst main.
 set('branch', function () {
