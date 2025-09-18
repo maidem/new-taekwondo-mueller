@@ -43,7 +43,7 @@ page {
     }
 
     includeCSS {
-        site_package_layout = EXT:site_package/Resources/Public/Css/layout.css
+        
     }
 
     includeJSLibs {
@@ -59,6 +59,6 @@ page {
     }
 
     includeJSFooter {
-        site_package_scripts = EXT:site_package/Resources/Public/JavaScript/main.js
+        
     }
 }
