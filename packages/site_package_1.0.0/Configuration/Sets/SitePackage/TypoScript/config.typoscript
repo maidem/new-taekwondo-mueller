@@ -14,7 +14,7 @@ config {
     removeDefaultJS = {$config.removeDefaultJS}
     inlineStyle2TempFile = 1
     admPanel = {$config.admPanel}
-    debug = 0
+    debug = 1
     cache_period = 86400
     sendCacheHeaders = {$config.sendCacheHeaders}
     intTarget =
