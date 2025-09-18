@@ -14,7 +14,7 @@
 		"sort-packages": true
 	},
 	"require": {
-		"maidem/site-package": "@dev",
+		"maidemde/taekwondo-mueller-sitepackage": "@dev",
 		"praetorius/vite-asset-collector": "^1.14",
 		"typo3/cms-backend": "^13.4",
 		"typo3/cms-belog": "^13.4",

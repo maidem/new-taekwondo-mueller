@@ -1,7 +1,7 @@
 base: /
 dependencies:
   - typo3/fluid-styled-content
-  - maidem/site-package
+  - maidemde/taekwondo-mueller-sitepackage
 languages:
   -
     title: German
@@ -10,20 +10,20 @@ languages:
     hreflang: ''
     base: /de/
     websiteTitle: ''
-    navigationTitle: ''
+    navigationTitle: German
     flag: de
     languageId: 0
   -
     title: English
     enabled: true
-    locale: en_US.utf8
+    locale: en_US
     hreflang: ''
     base: /en/
     websiteTitle: ''
-    navigationTitle: ''
+    navigationTitle: English
     fallbackType: strict
     fallbacks: ''
     flag: en-us-gb
     languageId: 1
-rootPageId: 1
+rootPageId: 2
 websiteTitle: ''

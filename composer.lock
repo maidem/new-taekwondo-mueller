@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c49e07042793d4bbf4d2e7624b059b38",
+    "content-hash": "edd82275447d4c310dc9d0534f6bd634",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -1203,12 +1203,12 @@
             "time": "2024-07-09T14:25:40+00:00"
         },
         {
-            "name": "maidem/site-package",
+            "name": "maidemde/taekwondo-mueller-sitepackage",
             "version": "dev-main",
             "dist": {
                 "type": "path",
-                "url": "./packages/site_package_1.0.0",
-                "reference": "d72f5521d7025e8e7ecf189ca951c39843e67dee"
+                "url": "./packages/taekwondo_mueller_sitepackage",
+                "reference": "c77dc58b385adec82507fe4a81b3d85e3401ab87"
             },
             "require": {
                 "typo3/cms-core": "^13.4",
@@ -1218,12 +1218,12 @@
             "type": "typo3-cms-extension",
             "extra": {
                 "typo3/cms": {
-                    "extension-key": "site_package"
+                    "extension-key": "taekwondo_mueller_sitepackage"
                 }
             },
             "autoload": {
                 "psr-4": {
-                    "Maidem\\SitePackage\\": "Classes/"
+                    "Maidemde\\TaekwondoMuellerSitepackage\\": "Classes/"
                 }
             },
             "license": [
@@ -7157,7 +7157,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "maidem/site-package": 20
+        "maidemde/taekwondo-mueller-sitepackage": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
