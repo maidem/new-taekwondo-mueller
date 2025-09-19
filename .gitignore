@@ -5,4 +5,6 @@ nbproject
 !/var/labels
 /vendor
 /public/*
-!/public/.htaccess
+!/public/_assets/
+!/public/_assets/vite/
+!/public/_assets/vite/**
