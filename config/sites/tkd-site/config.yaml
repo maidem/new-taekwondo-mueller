@@ -10,7 +10,7 @@ languages:
     hreflang: ''
     base: /de/
     websiteTitle: ''
-    navigationTitle: German
+    navigationTitle: ''
     flag: de
     languageId: 0
   -
@@ -22,8 +22,8 @@ languages:
     websiteTitle: ''
     navigationTitle: English
     fallbackType: strict
-    fallbacks: ''
+    fallbacks: '0'
     flag: en-us-gb
     languageId: 1
-rootPageId: 2
+rootPageId: 3
 websiteTitle: ''
