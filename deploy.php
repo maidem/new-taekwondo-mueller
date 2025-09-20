@@ -26,7 +26,8 @@ set('shared_files', [
     // Lege hier Dateien ab, die server-spezifisch sind:
     'config/system/additional.php',
     'public/.htaccess',
-    'public/.user.ini'
+    'public/.user.ini',
+    'config/sites/'
 ]);
 set('writable_dirs', [
     'var',
