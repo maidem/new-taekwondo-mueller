@@ -21,13 +21,13 @@ set('shared_dirs', [
     'public/uploads',
     'public/typo3temp',
     'var',
+    'config/sites',
 ]);
 set('shared_files', [
     // Lege hier Dateien ab, die server-spezifisch sind:
     'config/system/additional.php',
     'public/.htaccess',
-    'public/.user.ini',
-    'config/sites/'
+    'public/.user.ini'
 ]);
 set('writable_dirs', [
     'var',
