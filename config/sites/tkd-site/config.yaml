@@ -1,6 +1,5 @@
 base: /
 dependencies:
-  - typo3/fluid-styled-content
   - maidemde/taekwondo-mueller-sitepackage
 languages:
   -
